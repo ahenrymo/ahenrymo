@@ -16,7 +16,7 @@ Welcome to my GitHub playground! 🚀 I'm Anto Frederic, and I'm here to code, c
 
 💬 Have an interesting project or just want to chat about analytics, sports, or cooking? Feel free to reach out and connect with me. I'm always up for a good conversation!
 
-📫 You can drop me a message at [your.email@example.com](mailto:ahenrymo@purdue.edu).
+📫 You can drop me a message at [ahenrymo@purdue.edu](mailto:ahenrymo@purdue.edu).
 
 📷 Check out my delicious food creations on Instagram: [@your_instagram_handle](https://www.instagram.com/your_instagram_handle/)
 
