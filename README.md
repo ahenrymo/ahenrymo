@@ -10,7 +10,7 @@ Welcome to my GitHub playground! 🚀 I'm Anto Frederic, and I'm here to code, c
 
 🍳 Oh, and did I mention I'm a bit of a kitchen wizard too? Check out my culinary adventures on my Instagram page. 😋
 
-🌍 I've even explored the world a bit—kayaking on two continents and recently taking up ice skating. Life's all about balance, right?
+🌍 I've even explored the world a bit—kayaking on five oceans and recently taking up ice skating. Life's all about balance, right?
 
 ## Let's Connect
 
